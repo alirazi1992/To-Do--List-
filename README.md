@@ -21,7 +21,7 @@ A simple desktop **To-Do app** with add/delete, due dates, priorities, and persi
 ## 📸 Screenshots
 | Main | 
 |------|
-| ![Main](./TodoList.png) | 
+| ![Screenshot](./TodoList.png) |
 
 
 
