@@ -1,0 +1,9 @@
+C:\Users\a.razi\source\repos\TodoListGUI\TodoListGUI\bin\Debug\TodoListGUI.exe.config
+C:\Users\a.razi\source\repos\TodoListGUI\TodoListGUI\bin\Debug\TodoListGUI.exe
+C:\Users\a.razi\source\repos\TodoListGUI\TodoListGUI\bin\Debug\TodoListGUI.pdb
+C:\Users\a.razi\source\repos\TodoListGUI\TodoListGUI\obj\Debug\TodoListGUI.csproj.AssemblyReference.cache
+C:\Users\a.razi\source\repos\TodoListGUI\TodoListGUI\obj\Debug\TodoListGUI.Properties.Resources.resources
+C:\Users\a.razi\source\repos\TodoListGUI\TodoListGUI\obj\Debug\TodoListGUI.csproj.GenerateResource.cache
+C:\Users\a.razi\source\repos\TodoListGUI\TodoListGUI\obj\Debug\TodoListGUI.csproj.CoreCompileInputs.cache
+C:\Users\a.razi\source\repos\TodoListGUI\TodoListGUI\obj\Debug\TodoListGUI.exe
+C:\Users\a.razi\source\repos\TodoListGUI\TodoListGUI\obj\Debug\TodoListGUI.pdb
